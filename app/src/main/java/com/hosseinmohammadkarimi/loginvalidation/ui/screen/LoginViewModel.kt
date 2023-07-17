@@ -5,8 +5,8 @@ import androidx.compose.runtime.getValue
 import androidx.compose.runtime.setValue
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.hosseinmohammadkarimi.domain.use_case.PasswordValidation
-import com.hosseinmohammadkarimi.domain.use_case.UsernameValidation
+import com.hosseinmohammadkarimi.loginvalidation.domain.use_case.PasswordValidation
+import com.hosseinmohammadkarimi.loginvalidation.domain.use_case.UsernameValidation
 import com.hosseinmohammadkarimi.loginvalidation.utils.UIEvent
 import kotlinx.coroutines.flow.MutableSharedFlow
 import kotlinx.coroutines.flow.asSharedFlow

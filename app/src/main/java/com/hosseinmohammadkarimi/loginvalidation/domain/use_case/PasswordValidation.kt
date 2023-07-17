@@ -1,4 +1,4 @@
-package com.hosseinmohammadkarimi.domain.use_case
+package com.hosseinmohammadkarimi.loginvalidation.domain.use_case
 
 class PasswordValidation {
 
